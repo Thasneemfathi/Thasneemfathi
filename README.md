@@ -10,7 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=thasneemfathi&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/thasneemfathi?label=FOLLOWERS&style=for-the-badge&color=00C6FF" alt="Followers"/>
 
 </div>
 
