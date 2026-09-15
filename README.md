@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thasneem</h1>
-<h3 align="center">Web Development Enthusiast | Building Projects & Growing My Skills</h3>
+<h3 align="center">Web Development Enthusiast | Aspiring Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [Thasneemfathi](Thasneemfathi)
 
